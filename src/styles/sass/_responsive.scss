@@ -1,0 +1,57 @@
+@media (max-width: 1024px) {
+  .main {
+    padding-inline: 1.25rem;
+
+  }
+  .footer {
+    padding-inline: 1.25rem;
+  }
+}
+@media (max-width: 768px) {
+  .main {
+    background-image: url('../../images/bg-mobile.webp');
+    .content {
+      gap: 1.5rem;
+      .logo {
+        max-height: 3rem;
+      }
+      .headline {
+
+        .title {
+          font-size: 2rem;
+        }
+      }
+      .cta {
+        width: 100%;
+        padding-inline: 2rem;
+      }
+    }
+  }
+}
+@media (max-width: 420px) {
+  .main {
+    .content {
+      .headline {
+        .title {
+          font-size: 1.75rem;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 370px) {
+  .target-bar {
+    p {
+      font-size: .875rem;
+    }
+  }
+  .main {
+    .content {
+      .headline {
+        .title {
+          font-size: 1.5rem;
+        }
+      }
+    }
+  }
+}
