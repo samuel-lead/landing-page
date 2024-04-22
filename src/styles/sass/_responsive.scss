@@ -10,6 +10,8 @@
 @media (max-width: 768px) {
   .main {
     background-image: url('../../images/bg-mobile.webp');
+    background-position-x: 25%;
+  
     .content {
       gap: 1.5rem;
       .logo {
