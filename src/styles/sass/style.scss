@@ -58,6 +58,10 @@ body {
           background-clip: text;
           -webkit-background-clip: text;
           -moz-background-clip: text;
+
+          & > span {
+            display: inline-block;
+          }
         }
       }
 
