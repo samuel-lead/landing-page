@@ -5,7 +5,7 @@ Página criada com o objetivo de apresentar o método do especialsita e qualific
 
 **Deploy:** https://hiigorsilva.github.io/samuel-lead/
 
-<img src="./src/images/img-readme.jpg" alt="Screenshot on the Landing Page">
+<img src="./src/images/img-readme.jpg" style="border-radius: 1rem;">
 
 ## Paleta de Cores
 
@@ -27,4 +27,3 @@ Página criada com o objetivo de apresentar o método do especialsita e qualific
 **Front-end:** HTML, SCSS, CSS
 
 **Controle de Versão:** GIT, GitHub
-
