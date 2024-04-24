@@ -24,6 +24,6 @@ Página criada com o objetivo de apresentar o método do especialsita e qualific
 
 **Design:** Figma
 
-**Front-end:** HTML, SCSS, CSS
+**Front-end:** HTML, SCSS, CSS, JS
 
 **Controle de Versão:** GIT, GitHub
