@@ -2,7 +2,7 @@
   "name": "samuel-lead",
   "version": "1.0.0",
   "description": "landing page",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "sass --watch src/styles/sass:src/styles/css --no-source-map --style compressed"
   },
